@@ -1,4 +1,4 @@
-# DeepLearning-Extract_40-features_from_human_faces
+# DeepLearning-Extract_40_features_from_human_faces
  Extract 40 features from human faces using Deep Learning.
 result : 
 
